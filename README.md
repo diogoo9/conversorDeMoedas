@@ -1,6 +1,6 @@
-# conversos
+# conversor de moedas 
 
-A new Flutter application.
+A new Flutter application of course.
 
 ## Getting Started
 
